@@ -120,6 +120,7 @@ const styles: { [key: string]: CSSProperties } = {
         minHeight: 0,
         minWidth: 0,
         left: 0,
+        right: 0,
         top: 0,
     },
 };
